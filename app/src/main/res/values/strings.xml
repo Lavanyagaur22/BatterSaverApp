@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BatterSaverApp</string>
+    <string name="title_activity_power_dis">PowerDis</string>
+</resources>
